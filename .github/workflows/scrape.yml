@@ -58,6 +58,9 @@ jobs:
           playwright install --with-deps chromium
         fi
 
+    - name: Validate Reading Pipeline
+      run: python scripts/test_reading_pipeline.py
+
     - name: Run New Book Rank Scraper
       if: steps.check_data.outputs.new_exists == 'false'
       run: python scrape_fanqie_ranks.py
