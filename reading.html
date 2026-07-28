@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>番茄女频阅读榜 · 风向标</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="description" content="番茄小说女频阅读榜与成熟市场趋势">
+</head>
+<body>
+<div class="app-container">
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h1>番茄风向标</h1>
+            <p class="sidebar-subtitle">女频阅读榜验证</p>
+            <p id="update-date" class="update-date">加载中...</p>
+        </div>
+        <nav class="category-nav"><ul id="category-list"><li class="loading-item">加载中...</li></ul></nav>
+    </aside>
+    <main class="main-content">
+        <header class="main-header">
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="菜单">☰</button>
+            <div class="header-left"><h2 id="current-category-title">全部分类</h2></div>
+            <div class="header-right">
+                <a class="trend-link-btn" href="index.html">新书榜</a>
+                <a class="trend-link-btn" href="reading.html">阅读榜</a>
+                <a class="trend-link-btn" href="cross.html">交叉分析</a>
+            </div>
+        </header>
+        <section class="trend-panel" id="trend-panel">
+            <div class="trend-ai">
+                <div class="ai-label">READING SIGNAL</div>
+                <div class="ai-content" id="ai-content">阅读榜用于验证成熟读者需求。加载中...</div>
+            </div>
+        </section>
+        <section class="books-waterfall" id="books-waterfall"></section>
+    </main>
+</div>
+<script src="js/reading.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>番茄双榜交叉分析</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="description" content="番茄女频新书榜与阅读榜交叉验证">
+    <style>
+        .cross-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:18px;padding:20px}
+        .cross-card{background:var(--card-bg,#171923);border:1px solid var(--border-color,#2d3748);border-radius:14px;padding:18px}
+        .cross-card h3{margin:0 0 12px}.signal-row{margin:10px 0}.signal-row strong{display:block;margin-bottom:6px}
+        .chips{display:flex;flex-wrap:wrap;gap:6px}.chip{padding:5px 9px;border:1px solid #475569;border-radius:999px;font-size:13px}
+        .book-lines{font-size:13px;line-height:1.7;color:var(--text-muted,#94a3b8)}
+    </style>
+</head>
+<body>
+<main class="main-content" style="margin-left:0">
+    <header class="main-header">
+        <div class="header-left"><h2>新书榜 × 阅读榜</h2></div>
+        <div class="header-right">
+            <a class="trend-link-btn" href="index.html">新书榜</a>
+            <a class="trend-link-btn" href="reading.html">阅读榜</a>
+            <a class="trend-link-btn" href="cross.html">交叉分析</a>
+        </div>
+    </header>
+    <section class="trend-panel">
+        <div class="trend-ai"><div class="ai-label">MARKET RADAR</div><div class="ai-content" id="cross-summary">加载中...</div></div>
+    </section>
+    <section class="cross-grid" id="cross-grid"></section>
+</main>
+<script src="js/cross.js"></script>
+</body>
+</html>
