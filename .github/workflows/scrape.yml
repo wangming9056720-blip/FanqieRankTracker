@@ -26,6 +26,8 @@ on:
       - 'js/reading.js'
       - 'js/cross.js'
 
+# Manual refresh marker: 2026-07-30 20:16 Asia/Singapore
+
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-22.04
