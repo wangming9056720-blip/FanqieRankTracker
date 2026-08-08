@@ -8,8 +8,8 @@ from playwright.sync_api import sync_playwright
 from scrape_fanqie_ranks import decode_text
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
-INIT_URL = "https://fanqienovel.com/rank/0_0_1139"
-ROUTE_PREFIX = "/rank/0_0_"
+INIT_URL = "https://fanqienovel.com/rank/0_2_1139"
+ROUTE_PREFIX = "/rank/0_2_"
 
 
 def _extract_books(page):
