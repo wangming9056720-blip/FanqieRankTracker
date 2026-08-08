@@ -40,7 +40,7 @@ def _extract_books(page):
                     title = titleNode?.innerText?.trim() || '未知';
                 }
                 const authorNode = item.querySelector('.author, .author-name') || item.querySelector('a[href^="/author-page/"]');
-                const lines = item.innerText.split('\n').map(s => s.trim()).filter(Boolean);
+                const lines = item.innerText.split(String.fromCharCode(10)).map(s => s.trim()).filter(Boolean);
                 const reads = lines.find(line => line.includes('在读')) || '未知';
                 const introNode = item.querySelector('.intro, .abstract, .desc');
                 return {
