@@ -11,7 +11,6 @@ concurrency:
 
 on:
   schedule:
-    # 每天 UTC 00:00（北京时间 08:00）触发
     - cron: '0 0 * * *'
   workflow_dispatch:
   push:
@@ -25,8 +24,6 @@ on:
       - 'cross.html'
       - 'js/reading.js'
       - 'js/cross.js'
-
-# Manual refresh marker: 2026-07-30 20:16 Asia/Singapore
 
 jobs:
   scrape-and-commit:
@@ -80,12 +77,6 @@ jobs:
       env:
         GITHUB_ACTIONS: true
 
-    - name: Run Reading Rank Scraper
-      if: steps.check_data.outputs.reading_exists == 'false'
-      run: python scrape_fanqie_reading_ranks.py
-      env:
-        GITHUB_ACTIONS: true
-
     - name: Build New Book Rank Data
       run: python scripts/build_latest.py
       env:
@@ -93,20 +84,45 @@ jobs:
         API_KEY: ${{ secrets.API_KEY }}
         API_MODEL: ${{ secrets.API_MODEL }}
 
+    - name: Persist New Book Data First
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "[Auto] Update Fanqie new-book ranks"
+        file_pattern: data/fanqie_female_new_ranks_*.json api
+        branch: main
+
+    - name: Run Reading Rank Scraper
+      id: reading_scrape
+      if: steps.check_data.outputs.reading_exists == 'false'
+      continue-on-error: true
+      run: python scrape_fanqie_reading_ranks.py
+      env:
+        GITHUB_ACTIONS: true
+
+    - name: Check Reading Snapshot
+      id: reading_check
+      run: |
+        TODAY=$(date -u +"%Y%m%d")
+        READING_FILE="data/fanqie_female_reading_ranks_${TODAY}.json"
+        [ -f "$READING_FILE" ] && echo "exists=true" >> $GITHUB_OUTPUT || echo "exists=false" >> $GITHUB_OUTPUT
+
     - name: Build Reading Rank Data
+      if: steps.reading_check.outputs.exists == 'true'
       run: python scripts/build_reading_latest.py
 
     - name: Build Cross Analysis
+      if: steps.reading_check.outputs.exists == 'true'
       run: python scripts/build_cross_analysis.py
 
-    - name: Sync Latest Main Before Commit
+    - name: Sync Latest Main Before Final Commit
       run: git pull --rebase --autostash origin main
 
-    - name: Commit and Push Changes
+    - name: Commit Reading and Cross Data
+      if: steps.reading_check.outputs.exists == 'true'
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "[Auto] Update Fanqie new and reading ranks"
-        file_pattern: data api
+        commit_message: "[Auto] Update Fanqie reading and cross ranks"
+        file_pattern: data/fanqie_female_reading_ranks_*.json api
         branch: main
 
     - name: Setup Pages
