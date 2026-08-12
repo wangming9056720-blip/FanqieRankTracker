@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-11",
-  "prev_date": "2026-08-10",
+  "date": "2026-08-12",
+  "prev_date": "2026-08-11",
   "types": [
     {
       "type": "all",
       "url": "api/reading/lastest/all.json",
       "category_count": 18,
-      "book_count": 358
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -71,7 +71,7 @@
     {
       "type": "青春甜宠",
       "url": "api/reading/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "星光璀璨",
@@ -81,7 +81,7 @@
     {
       "type": "女频悬疑",
       "url": "api/reading/lastest/%E5%A5%B3%E9%A2%91%E6%82%AC%E7%96%91.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "职场婚恋",
