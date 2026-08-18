@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-17",
-  "prev_date": "2026-08-16",
+  "date": "2026-08-18",
+  "prev_date": "2026-08-17",
   "types": [
     {
       "type": "all",
       "url": "api/reading/lastest/all.json",
       "category_count": 18,
-      "book_count": 360
+      "book_count": 358
     },
     {
       "type": "古风世情",
@@ -21,7 +21,7 @@
     {
       "type": "游戏体育",
       "url": "api/reading/lastest/%E6%B8%B8%E6%88%8F%E4%BD%93%E8%82%B2.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "女频衍生",
@@ -91,7 +91,7 @@
     {
       "type": "豪门总裁",
       "url": "api/reading/lastest/%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "民国言情",
