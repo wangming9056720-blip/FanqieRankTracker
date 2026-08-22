@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-21",
-  "prev_date": "2026-08-20",
+  "date": "2026-08-22",
+  "prev_date": "2026-08-21",
   "types": [
     {
       "type": "all",
       "url": "api/reading/lastest/all.json",
       "category_count": 18,
-      "book_count": 359
+      "book_count": 355
     },
     {
       "type": "古风世情",
@@ -26,22 +26,22 @@
     {
       "type": "女频衍生",
       "url": "api/reading/lastest/%E5%A5%B3%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "玄幻言情",
       "url": "api/reading/lastest/%E7%8E%84%E5%B9%BB%E8%A8%80%E6%83%85.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "种田",
       "url": "api/reading/lastest/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "年代",
       "url": "api/reading/lastest/%E5%B9%B4%E4%BB%A3.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "现言脑洞",
@@ -86,12 +86,12 @@
     {
       "type": "职场婚恋",
       "url": "api/reading/lastest/%E8%81%8C%E5%9C%BA%E5%A9%9A%E6%81%8B.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "豪门总裁",
       "url": "api/reading/lastest/%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "民国言情",
