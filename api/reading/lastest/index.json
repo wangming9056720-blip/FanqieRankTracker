@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-02",
-  "prev_date": "2026-08-31",
+  "date": "2026-09-03",
+  "prev_date": "2026-09-02",
   "types": [
     {
       "type": "all",
       "url": "api/reading/lastest/all.json",
       "category_count": 18,
-      "book_count": 351
+      "book_count": 358
     },
     {
       "type": "古风世情",
       "url": "api/reading/lastest/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "科幻末世",
@@ -36,7 +36,7 @@
     {
       "type": "种田",
       "url": "api/reading/lastest/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "年代",
@@ -51,7 +51,7 @@
     {
       "type": "宫斗宅斗",
       "url": "api/reading/lastest/%E5%AE%AB%E6%96%97%E5%AE%85%E6%96%97.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "悬疑脑洞",
@@ -61,7 +61,7 @@
     {
       "type": "古言脑洞",
       "url": "api/reading/lastest/%E5%8F%A4%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 18
+      "book_count": 20
     },
     {
       "type": "快穿",
@@ -71,7 +71,7 @@
     {
       "type": "青春甜宠",
       "url": "api/reading/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 18
+      "book_count": 20
     },
     {
       "type": "星光璀璨",
@@ -91,12 +91,12 @@
     {
       "type": "豪门总裁",
       "url": "api/reading/lastest/%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "民国言情",
       "url": "api/reading/lastest/%E6%B0%91%E5%9B%BD%E8%A8%80%E6%83%85.json",
-      "book_count": 20
+      "book_count": 19
     }
   ]
 }
