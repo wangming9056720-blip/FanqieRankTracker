@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-03",
-  "prev_date": "2026-09-02",
+  "date": "2026-09-04",
+  "prev_date": "2026-09-03",
   "types": [
     {
       "type": "all",
       "url": "api/reading/lastest/all.json",
       "category_count": 18,
-      "book_count": 358
+      "book_count": 355
     },
     {
       "type": "古风世情",
       "url": "api/reading/lastest/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "科幻末世",
@@ -21,7 +21,7 @@
     {
       "type": "游戏体育",
       "url": "api/reading/lastest/%E6%B8%B8%E6%88%8F%E4%BD%93%E8%82%B2.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "女频衍生",
@@ -31,7 +31,7 @@
     {
       "type": "玄幻言情",
       "url": "api/reading/lastest/%E7%8E%84%E5%B9%BB%E8%A8%80%E6%83%85.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "种田",
@@ -41,7 +41,7 @@
     {
       "type": "年代",
       "url": "api/reading/lastest/%E5%B9%B4%E4%BB%A3.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "现言脑洞",
@@ -61,7 +61,7 @@
     {
       "type": "古言脑洞",
       "url": "api/reading/lastest/%E5%8F%A4%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "快穿",
@@ -76,7 +76,7 @@
     {
       "type": "星光璀璨",
       "url": "api/reading/lastest/%E6%98%9F%E5%85%89%E7%92%80%E7%92%A8.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "女频悬疑",
@@ -96,7 +96,7 @@
     {
       "type": "民国言情",
       "url": "api/reading/lastest/%E6%B0%91%E5%9B%BD%E8%A8%80%E6%83%85.json",
-      "book_count": 19
+      "book_count": 20
     }
   ]
 }
