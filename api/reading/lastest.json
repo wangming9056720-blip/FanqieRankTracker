@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-06",
-  "prev_date": "2026-09-04",
+  "date": "2026-09-07",
+  "prev_date": "2026-09-06",
   "types": [
     {
       "type": "all",
       "url": "api/reading/lastest/all.json",
       "category_count": 18,
-      "book_count": 354
+      "book_count": 355
     },
     {
       "type": "古风世情",
@@ -16,17 +16,17 @@
     {
       "type": "科幻末世",
       "url": "api/reading/lastest/%E7%A7%91%E5%B9%BB%E6%9C%AB%E4%B8%96.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "游戏体育",
       "url": "api/reading/lastest/%E6%B8%B8%E6%88%8F%E4%BD%93%E8%82%B2.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "女频衍生",
       "url": "api/reading/lastest/%E5%A5%B3%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "玄幻言情",
@@ -36,12 +36,12 @@
     {
       "type": "种田",
       "url": "api/reading/lastest/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 18
+      "book_count": 20
     },
     {
       "type": "年代",
       "url": "api/reading/lastest/%E5%B9%B4%E4%BB%A3.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "现言脑洞",
@@ -51,12 +51,12 @@
     {
       "type": "宫斗宅斗",
       "url": "api/reading/lastest/%E5%AE%AB%E6%96%97%E5%AE%85%E6%96%97.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "悬疑脑洞",
       "url": "api/reading/lastest/%E6%82%AC%E7%96%91%E8%84%91%E6%B4%9E.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "古言脑洞",
@@ -66,12 +66,12 @@
     {
       "type": "快穿",
       "url": "api/reading/lastest/%E5%BF%AB%E7%A9%BF.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "青春甜宠",
       "url": "api/reading/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "星光璀璨",
@@ -86,7 +86,7 @@
     {
       "type": "职场婚恋",
       "url": "api/reading/lastest/%E8%81%8C%E5%9C%BA%E5%A9%9A%E6%81%8B.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "豪门总裁",
