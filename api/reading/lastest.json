@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-09",
-  "prev_date": "2026-09-08",
+  "date": "2026-09-10",
+  "prev_date": "2026-09-09",
   "types": [
     {
       "type": "all",
       "url": "api/reading/lastest/all.json",
       "category_count": 18,
-      "book_count": 356
+      "book_count": 355
     },
     {
       "type": "古风世情",
@@ -26,7 +26,7 @@
     {
       "type": "女频衍生",
       "url": "api/reading/lastest/%E5%A5%B3%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "玄幻言情",
@@ -36,7 +36,7 @@
     {
       "type": "种田",
       "url": "api/reading/lastest/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "年代",
@@ -76,7 +76,7 @@
     {
       "type": "星光璀璨",
       "url": "api/reading/lastest/%E6%98%9F%E5%85%89%E7%92%80%E7%92%A8.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "女频悬疑",
