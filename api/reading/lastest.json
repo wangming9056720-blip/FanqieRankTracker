@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-17",
-  "prev_date": "2026-09-16",
+  "date": "2026-09-18",
+  "prev_date": "2026-09-17",
   "types": [
     {
       "type": "all",
       "url": "api/reading/lastest/all.json",
       "category_count": 18,
-      "book_count": 353
+      "book_count": 354
     },
     {
       "type": "古风世情",
@@ -16,7 +16,7 @@
     {
       "type": "科幻末世",
       "url": "api/reading/lastest/%E7%A7%91%E5%B9%BB%E6%9C%AB%E4%B8%96.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "游戏体育",
@@ -31,7 +31,7 @@
     {
       "type": "玄幻言情",
       "url": "api/reading/lastest/%E7%8E%84%E5%B9%BB%E8%A8%80%E6%83%85.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "种田",
@@ -46,17 +46,17 @@
     {
       "type": "现言脑洞",
       "url": "api/reading/lastest/%E7%8E%B0%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "宫斗宅斗",
       "url": "api/reading/lastest/%E5%AE%AB%E6%96%97%E5%AE%85%E6%96%97.json",
-      "book_count": 18
+      "book_count": 19
     },
     {
       "type": "悬疑脑洞",
       "url": "api/reading/lastest/%E6%82%AC%E7%96%91%E8%84%91%E6%B4%9E.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "古言脑洞",
@@ -71,12 +71,12 @@
     {
       "type": "青春甜宠",
       "url": "api/reading/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "星光璀璨",
       "url": "api/reading/lastest/%E6%98%9F%E5%85%89%E7%92%80%E7%92%A8.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "女频悬疑",
@@ -86,12 +86,12 @@
     {
       "type": "职场婚恋",
       "url": "api/reading/lastest/%E8%81%8C%E5%9C%BA%E5%A9%9A%E6%81%8B.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "豪门总裁",
       "url": "api/reading/lastest/%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "民国言情",
