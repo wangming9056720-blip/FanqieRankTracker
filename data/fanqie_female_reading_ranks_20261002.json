@@ -1,64 +1,9 @@
 {
-  "type": "all",
   "date": "2026-10-02",
-  "prev_date": "2026-10-01",
   "rank_type": "reading",
   "categories": [
     {
       "name": "古风世情",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "假皇女误闯天家，全皇朝惊艳沦陷"
-        ],
-        "dropped_books": [
-          "柿间词"
-        ],
-        "top_risers": [
-          {
-            "title": "父皇他两辈子都在装",
-            "change": "+4"
-          },
-          {
-            "title": "枕上桃色",
-            "change": "+3"
-          },
-          {
-            "title": "女扮男装上朝后，死对头暗恋成疾",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "冲喜丫头要跑路",
-            "change": "-2"
-          },
-          {
-            "title": "逢灯纪",
-            "change": "-1"
-          },
-          {
-            "title": "贵女她只想躺平",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "父皇他两辈子都在装",
-            "growth": "+1.6万"
-          },
-          {
-            "title": "枕上桃色",
-            "growth": "+3000"
-          },
-          {
-            "title": "何不同舟渡",
-            "growth": "+2000"
-          }
-        ],
-        "summary": "新增1本上榜；1本掉榜；《父皇他两辈子都在装》在读增长+1.6万。"
-      },
       "books": [
         {
           "title": "惹金枝",
@@ -224,59 +169,6 @@
     },
     {
       "name": "科幻末世",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "末世重生，这炮灰谁爱当谁当！"
-        ],
-        "dropped_books": [
-          "末世降临：小尸尸我呀囤囤囤囤！"
-        ],
-        "top_risers": [
-          {
-            "title": "弱智就弱智吧，我照样星际最强！",
-            "change": "+3"
-          },
-          {
-            "title": "最野救世小队，在线肘击世界",
-            "change": "+2"
-          },
-          {
-            "title": "末世：我一个炮灰，坏一点怎么了",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "末日车队逃亡，别人超凡我异能",
-            "change": "-5"
-          },
-          {
-            "title": "穿进末世，我靠装弱，苟成最强",
-            "change": "-1"
-          },
-          {
-            "title": "末世降临，我靠种田带室友杀疯了",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "末世经营：四位大佬蹲我小店打杂",
-            "growth": "+1.1万"
-          },
-          {
-            "title": "末日入侵：从无限列车开始求生",
-            "growth": "+1.0万"
-          },
-          {
-            "title": "恐怖末世，炮灰女配神级道具开局",
-            "growth": "+5000"
-          }
-        ],
-        "summary": "新增1本上榜；1本掉榜；《末世经营：四位大佬蹲我小店打杂》在读增长+1.1万。"
-      },
       "books": [
         {
           "title": "末世经营：四位大佬蹲我小店打杂",
@@ -442,47 +334,6 @@
     },
     {
       "name": "游戏体育",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "地球人，你们逃离原生神明了吗？",
-            "change": "+1"
-          },
-          {
-            "title": "游戏入侵：原女主她天生反骨",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "地下城求生：白毛萝莉的暴力美学",
-            "change": "-1"
-          },
-          {
-            "title": "公路求生，但我是隔壁无限流大佬",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "游戏入侵：抢男女主机缘会上瘾诶",
-            "growth": "+9000"
-          },
-          {
-            "title": "木筏求生：我致力打造鼠托邦",
-            "growth": "+5000"
-          },
-          {
-            "title": "全球木筏求生：我开局幽灵船打劫",
-            "growth": "+2000"
-          }
-        ],
-        "summary": "《游戏入侵：抢男女主机缘会上瘾诶》在读增长+9000。"
-      },
       "books": [
         {
           "title": "游戏入侵：抢男女主机缘会上瘾诶",
@@ -648,59 +499,6 @@
     },
     {
       "name": "女频衍生",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "【综影视】穿越的一百种姿势"
-        ],
-        "dropped_books": [
-          "人生互换从华妃成为小秦氏开始"
-        ],
-        "top_risers": [
-          {
-            "title": "综影视之女配的舒心日常",
-            "change": "+2"
-          },
-          {
-            "title": "综影视：开局抽到小纸人",
-            "change": "+1"
-          },
-          {
-            "title": "【综名著】十九世纪冒险家",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "综影视：能拆一对是一对",
-            "change": "-4"
-          },
-          {
-            "title": "封神：哪吒超爱那朵莲",
-            "change": "-2"
-          },
-          {
-            "title": "穿成依萍，我带雪姨制霸上海滩",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "甄嬛传：变漂亮的李金桂",
-            "growth": "+6000"
-          },
-          {
-            "title": "综影视：炮灰她不甘心",
-            "growth": "+6000"
-          },
-          {
-            "title": "【综名著】十九世纪冒险家",
-            "growth": "+5000"
-          }
-        ],
-        "summary": "新增1本上榜；1本掉榜；《甄嬛传：变漂亮的李金桂》在读增长+6000。"
-      },
       "books": [
         {
           "title": "宜修换嫁年羹尧，摆烂躺赢了",
@@ -866,53 +664,6 @@
     },
     {
       "name": "玄幻言情",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "修仙，我种的灵植被疯抢",
-          "贩剑红衣身上穿，掌声送给整活人"
-        ],
-        "dropped_books": [
-          "双修就变强，全员天骄，就我摸鱼",
-          "宗门牛马跑路，三天后护山阵崩了"
-        ],
-        "top_risers": [
-          {
-            "title": "团宠师妹归来，拯救满门怨种反派",
-            "change": "+2"
-          },
-          {
-            "title": "全宗都是舔狗，小师妹是真狗",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "穿越修仙，末世归途",
-            "change": "-2"
-          },
-          {
-            "title": "我死后竟成了堕神白月光",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "合欢宗老祖重生小白花，又妖又坏",
-            "growth": "+7000"
-          },
-          {
-            "title": "男主都是恋爱脑，只有我是真修仙",
-            "growth": "+2000"
-          },
-          {
-            "title": "我法师加奶妈，用七把剑不过分吧",
-            "growth": "+2000"
-          }
-        ],
-        "summary": "新增2本上榜；2本掉榜；《合欢宗老祖重生小白花，又妖又坏》在读增长+7000。"
-      },
       "books": [
         {
           "title": "听说我死后成了反派白月光",
@@ -1078,61 +829,6 @@
     },
     {
       "name": "种田",
-      "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
-        "new_books": [
-          "流放路上，疯批恶女救了王府满门",
-          "流放？疯批恶女搬空国库去逃荒"
-        ],
-        "dropped_books": [
-          "穿成古代农女，家无男丁我来撑",
-          "旺家小福女"
-        ],
-        "top_risers": [
-          {
-            "title": "开局分家？我有空间我怕啥！",
-            "change": "+2"
-          },
-          {
-            "title": "农家长姐早当家，嫁病秧子旺全族",
-            "change": "+2"
-          },
-          {
-            "title": "逃荒，我靠炫富系统吃香喝辣",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "分家，继母渣爹跪求我回家",
-            "change": "-2"
-          },
-          {
-            "title": "傻子成精了，她会说话了",
-            "change": "-2"
-          },
-          {
-            "title": "穿成农女：带着八个弟弟发家致富",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "开局分家？我有空间我怕啥！",
-            "growth": "+2.0万"
-          },
-          {
-            "title": "夫君战死五年归来：我携婆家出族",
-            "growth": "+1.7万"
-          },
-          {
-            "title": "重生妹妹抢亲？我换亲嫁糙汉暴富",
-            "growth": "+5000"
-          }
-        ],
-        "summary": "新增2本上榜；2本掉榜；《开局分家？我有空间我怕啥！》在读增长+2.0万。"
-      },
       "books": [
         {
           "title": "夫君战死五年归来：我携婆家出族",
@@ -1298,22 +994,6 @@
     },
     {
       "name": "年代",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "六零冲喜？拐个军爷回家生娃！",
-          "七零，植物人老公会读心",
-          "穿书八零，易孕媳妇攻略禁欲军官",
-          "70重生归来：渣夫贱妹一起踹",
-          "六零年代的重组家庭"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "六零冲喜？拐个军爷回家生娃！",
@@ -1479,22 +1159,6 @@
     },
     {
       "name": "现言脑洞",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "我在韩国贵族高中假装财阀二代",
-          "小炮灰变美后，抢了财阀太子爷",
-          "穿成财阀太子爷的作精前女友",
-          "穿书兽世：恶雌她终于吃上好的了",
-          "恶毒女配，驯疯男主"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "我在韩国贵族高中假装财阀二代",
@@ -1660,22 +1324,6 @@
     },
     {
       "name": "宫斗宅斗",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "满宫不孕，唯我三年抱俩！",
-          "不是疯批反派吗？怎么红眼要抱抱",
-          "入宫即高位，我是陛下表妹我怕谁",
-          "前世太苦，换亲被绝嗣国舅宠入骨",
-          "疯批暴戾九千岁转头对我轻声哄"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "满宫不孕，唯我三年抱俩！",
@@ -1841,22 +1489,6 @@
     },
     {
       "name": "悬疑脑洞",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "宿舍求生：从刷广告开始变强",
-          "没血条？你管这绝美NPC叫病弱",
-          "全民躲猫猫：疯批美人她满级天眼",
-          "我的人格超会演【卡牌扮演】",
-          "不要在无限流里招惹精神病！"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "宿舍求生：从刷广告开始变强",
@@ -2022,22 +1654,6 @@
     },
     {
       "name": "古言脑洞",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "脑子一热，强吻了我哥的同窗好友",
-          "我在大清当老六",
-          "枝上蘅",
-          "手拿名臣系统，我在古代女扮男装",
-          "状元悔断肠，玄学大佬不好惹"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "脑子一热，强吻了我哥的同窗好友",
@@ -2203,22 +1819,6 @@
     },
     {
       "name": "快穿",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "吃软饭！是人设",
-          "快穿之成为心机白莲花",
-          "快穿：苏茶的年代生活",
-          "快穿之我替人渣走正途",
-          "快穿：女配稳拿拜金娇气包剧本"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "吃软饭！是人设",
@@ -2384,22 +1984,6 @@
     },
     {
       "name": "青春甜宠",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "溯雨信笺",
-          "盛夏青苹果",
-          "认路人甲当爹后我喜提反派全家桶",
-          "怎敌她动人",
-          "许南风，至今夏"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "溯雨信笺",
@@ -2565,22 +2149,6 @@
     },
     {
       "name": "星光璀璨",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "万人迷神颜顶流只想演炮灰",
-          "癫，都癫，癫点好啊",
-          "太好了是咸鱼后妈，孩子有救了！",
-          "重生20次后我在选秀C位出道了",
-          "勇闯娱乐圈，从群演干到影后！"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "万人迷神颜顶流只想演炮灰",
@@ -2746,22 +2314,6 @@
     },
     {
       "name": "女频悬疑",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "卧底十年归，女局长她雷厉风行",
-          "全网围观，病弱学妹戏耍刑侦王牌",
-          "盗墓：长生都是有纹身的",
-          "心理解剖者",
-          "破案需要我这样的人才【刑侦】"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "卧底十年归，女局长她雷厉风行",
@@ -2927,22 +2479,6 @@
     },
     {
       "name": "职场婚恋",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "远嫁八年，回娘家难如登天！",
-          "恶毒女友提分手，太子爷他疯批了",
-          "新婚羔羊",
-          "被闺蜜骗到缅北赚快钱",
-          "真千金她从军了"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "远嫁八年，回娘家难如登天！",
@@ -3108,22 +2644,6 @@
     },
     {
       "name": "豪门总裁",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "老板是顶级魅魔，我睡一次没事吧",
-          "作精不吸血后，恋爱脑糙汉追着亲",
-          "温夜潮湿",
-          "舔你时你出轨，提离婚你后悔",
-          "京圈公主抢我男友，我结婚她疯了"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "老板是顶级魅魔，我睡一次没事吧",
@@ -3289,22 +2809,6 @@
     },
     {
       "name": "民国言情",
-      "trend": {
-        "new_count": 20,
-        "dropped_count": 0,
-        "new_books": [
-          "夫人离婚后，军阀大佬一夜白头",
-          "天降小福星，帅府全家宠上天",
-          "薄幸",
-          "小农女逃荒搬空地主鬼子库房",
-          "穿书，反派一家的富豪亲戚回来了"
-        ],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "新增20本上榜。"
-      },
       "books": [
         {
           "title": "夫人离婚后，军阀大佬一夜白头",
