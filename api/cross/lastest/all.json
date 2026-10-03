@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-02",
-  "new_rank_date": "2026-10-02",
-  "reading_rank_date": "2026-10-02",
+  "date": "2026-10-03",
+  "new_rank_date": "2026-10-03",
+  "reading_rank_date": "2026-10-03",
   "method": "按分类比较新书榜与阅读榜前20本的标题和简介关键词；结论用于选题假设，不代表留存或收入。",
   "categories": [
     {
@@ -23,12 +23,12 @@
           "count": 3
         },
         {
-          "keyword": "炮灰",
+          "keyword": "反派",
           "count": 3
         },
         {
-          "keyword": "反派",
-          "count": 3
+          "keyword": "炮灰",
+          "count": 2
         },
         {
           "keyword": "重生",
@@ -46,10 +46,6 @@
       "emerging_keywords": [
         {
           "keyword": "系统",
-          "count": 5
-        },
-        {
-          "keyword": "穿书",
           "count": 3
         },
         {
@@ -57,11 +53,15 @@
           "count": 3
         },
         {
-          "keyword": "团宠",
+          "keyword": "修罗场",
+          "count": 2
+        },
+        {
+          "keyword": "穿书",
           "count": 1
         },
         {
-          "keyword": "甜宠",
+          "keyword": "团宠",
           "count": 1
         },
         {
@@ -69,25 +69,29 @@
           "count": 1
         },
         {
-          "keyword": "修罗场",
+          "keyword": "年代",
           "count": 1
         },
         {
-          "keyword": "年代",
+          "keyword": "空间",
           "count": 1
         }
       ],
       "mature_keywords": [
         {
-          "keyword": "玄学",
+          "keyword": "无CP",
           "count": 2
         },
         {
-          "keyword": "无CP",
+          "keyword": "炮灰",
           "count": 1
         },
         {
           "keyword": "重生",
+          "count": 1
+        },
+        {
+          "keyword": "玄学",
           "count": 1
         },
         {
@@ -131,7 +135,7 @@
       "verified_keywords": [
         {
           "keyword": "重生",
-          "count": 3
+          "count": 2
         },
         {
           "keyword": "甜宠",
@@ -143,10 +147,6 @@
         },
         {
           "keyword": "炮灰",
-          "count": 1
-        },
-        {
-          "keyword": "系统",
           "count": 1
         },
         {
@@ -178,11 +178,11 @@
           "count": 2
         },
         {
-          "keyword": "空间",
-          "count": 1
+          "keyword": "重生",
+          "count": 2
         },
         {
-          "keyword": "重生",
+          "keyword": "空间",
           "count": 1
         },
         {
@@ -200,11 +200,15 @@
         {
           "keyword": "换亲",
           "count": 1
+        },
+        {
+          "keyword": "系统",
+          "count": 1
         }
       ],
       "new_top_books": [
-        "误春令",
         "溺爱成瘾：被权臣哥哥娇养",
+        "误春令",
         "与探花郎食肉记",
         "我的妹妹是恋爱脑",
         "病娇前男友篡位登基了"
@@ -233,11 +237,11 @@
           "count": 3
         },
         {
-          "keyword": "系统",
-          "count": 2
+          "keyword": "重生",
+          "count": 1
         },
         {
-          "keyword": "重生",
+          "keyword": "系统",
           "count": 1
         },
         {
@@ -255,10 +259,6 @@
           "count": 3
         },
         {
-          "keyword": "空间",
-          "count": 2
-        },
-        {
           "keyword": "修罗场",
           "count": 2
         },
@@ -268,6 +268,10 @@
         },
         {
           "keyword": "幼崽",
+          "count": 1
+        },
+        {
+          "keyword": "空间",
           "count": 1
         },
         {
@@ -305,16 +309,16 @@
           "count": 1
         },
         {
-          "keyword": "豪门",
+          "keyword": "系统",
           "count": 1
         }
       ],
       "new_top_books": [
         "沙海：高中生就好好学习啊",
-        "盗墓：张起灵的兄长总是不安分",
         "满级法医从实习开始",
-        "阴骸录",
-        "盗墓：从档案馆开始人见人爱"
+        "九门：乖，姐是兽医",
+        "盗墓：张起灵的兄长总是不安分",
+        "阴骸录"
       ],
       "reading_top_books": [
         "卧底十年归，女局长她雷厉风行",
@@ -378,7 +382,11 @@
           "count": 1
         },
         {
-          "keyword": "职业",
+          "keyword": "无CP",
+          "count": 1
+        },
+        {
+          "keyword": "年代",
           "count": 1
         },
         {
@@ -386,11 +394,7 @@
           "count": 1
         },
         {
-          "keyword": "无CP",
-          "count": 1
-        },
-        {
-          "keyword": "年代",
+          "keyword": "追妻",
           "count": 1
         }
       ],
@@ -400,15 +404,19 @@
           "count": 2
         },
         {
-          "keyword": "系统",
-          "count": 2
-        },
-        {
           "keyword": "空间",
           "count": 2
         },
         {
           "keyword": "换亲",
+          "count": 1
+        },
+        {
+          "keyword": "系统",
+          "count": 1
+        },
+        {
+          "keyword": "职业",
           "count": 1
         }
       ],
@@ -474,7 +482,7 @@
       "emerging_keywords": [
         {
           "keyword": "强制爱",
-          "count": 2
+          "count": 1
         },
         {
           "keyword": "系统",
@@ -524,18 +532,18 @@
         }
       ],
       "new_top_books": [
-        "这个小妾，能动手绝不叨叨",
         "恶毒表妹冒领恩情？陛下他更爱了",
         "长公主又野又撩，清冷将军跪着哄",
         "让我做妾？八千禁卫迎我回宫",
-        "贵妃有孕，皇帝日日偏爱"
+        "贵妃有孕，皇帝日日偏爱",
+        "恶女不洗白，兴风作浪，满京破防"
       ],
       "reading_top_books": [
         "满宫不孕，唯我三年抱俩！",
         "不是疯批反派吗？怎么红眼要抱抱",
         "入宫即高位，我是陛下表妹我怕谁",
-        "前世太苦，换亲被绝嗣国舅宠入骨",
-        "疯批暴戾九千岁转头对我轻声哄"
+        "疯批暴戾九千岁转头对我轻声哄",
+        "前世太苦，换亲被绝嗣国舅宠入骨"
       ],
       "interpretation": {
         "verified": "两榜都高频，属于已被市场验证且新书仍在跟进的方向。",
@@ -551,18 +559,22 @@
       "verified_keywords": [
         {
           "keyword": "年代",
-          "count": 11
+          "count": 12
         },
         {
           "keyword": "空间",
           "count": 6
         },
         {
+          "keyword": "七零",
+          "count": 5
+        },
+        {
           "keyword": "重生",
           "count": 4
         },
         {
-          "keyword": "七零",
+          "keyword": "甜宠",
           "count": 4
         },
         {
@@ -570,16 +582,12 @@
           "count": 3
         },
         {
-          "keyword": "甜宠",
-          "count": 3
-        },
-        {
           "keyword": "穿书",
           "count": 2
         },
         {
-          "keyword": "军婚",
-          "count": 2
+          "keyword": "系统",
+          "count": 1
         }
       ],
       "emerging_keywords": [
@@ -592,14 +600,6 @@
           "count": 3
         },
         {
-          "keyword": "年代",
-          "count": 2
-        },
-        {
-          "keyword": "甜宠",
-          "count": 2
-        },
-        {
           "keyword": "空间",
           "count": 1
         },
@@ -608,26 +608,42 @@
           "count": 1
         },
         {
+          "keyword": "年代",
+          "count": 1
+        },
+        {
           "keyword": "萌宝",
           "count": 1
         },
         {
-          "keyword": "七零",
+          "keyword": "穿书",
+          "count": 1
+        },
+        {
+          "keyword": "反派",
           "count": 1
         }
       ],
       "mature_keywords": [
         {
           "keyword": "军婚",
-          "count": 4
+          "count": 5
         },
         {
           "keyword": "炮灰",
+          "count": 3
+        },
+        {
+          "keyword": "重生",
           "count": 2
         },
         {
           "keyword": "替嫁",
           "count": 2
+        },
+        {
+          "keyword": "先婚后爱",
+          "count": 1
         },
         {
           "keyword": "团宠",
@@ -638,15 +654,7 @@
           "count": 1
         },
         {
-          "keyword": "重生",
-          "count": 1
-        },
-        {
           "keyword": "幼崽",
-          "count": 1
-        },
-        {
-          "keyword": "豪门",
           "count": 1
         }
       ],
@@ -655,12 +663,12 @@
         "苦命春草的坎坷人生",
         "毕业后，将乡下老公和孩子接进城",
         "穿越六零，小知青被大叔狠狠宠爱",
-        "爹，我带着傻了多年的娘来随军了"
+        "那年我带着妹妹逃婚了"
       ],
       "reading_top_books": [
         "六零冲喜？拐个军爷回家生娃！",
-        "七零，植物人老公会读心",
         "穿书八零，易孕媳妇攻略禁欲军官",
+        "七零，植物人老公会读心",
         "70重生归来：渣夫贱妹一起踹",
         "六零年代的重组家庭"
       ],
@@ -716,7 +724,7 @@
         },
         {
           "keyword": "强制爱",
-          "count": 1
+          "count": 2
         },
         {
           "keyword": "总裁",
@@ -734,11 +742,11 @@
       "mature_keywords": [
         {
           "keyword": "豪门",
-          "count": 6
+          "count": 7
         },
         {
           "keyword": "系统",
-          "count": 5
+          "count": 6
         },
         {
           "keyword": "职业",
@@ -761,14 +769,14 @@
           "count": 2
         },
         {
-          "keyword": "甜宠",
+          "keyword": "娱乐圈",
           "count": 2
         }
       ],
       "new_top_books": [
         "系统强制攻略，祖国，速捞！",
-        "快穿只抢男主不洗白",
         "快穿：漂亮女配被男主一见钟情了",
+        "快穿只抢男主不洗白",
         "女主作精闹分手？那男主是我的了",
         "快穿：恶毒女配抢男主上位"
       ],
@@ -848,6 +856,10 @@
         {
           "keyword": "总裁",
           "count": 1
+        },
+        {
+          "keyword": "修罗场",
+          "count": 1
         }
       ],
       "mature_keywords": [
@@ -911,12 +923,12 @@
       "same_title_or_url_count": 0,
       "verified_keywords": [
         {
-          "keyword": "娱乐圈",
-          "count": 7
+          "keyword": "直播",
+          "count": 6
         },
         {
-          "keyword": "直播",
-          "count": 5
+          "keyword": "娱乐圈",
+          "count": 6
         },
         {
           "keyword": "系统",
@@ -945,11 +957,11 @@
       ],
       "emerging_keywords": [
         {
-          "keyword": "系统",
-          "count": 2
+          "keyword": "甜宠",
+          "count": 1
         },
         {
-          "keyword": "甜宠",
+          "keyword": "女配",
           "count": 1
         },
         {
@@ -961,22 +973,22 @@
           "count": 1
         },
         {
-          "keyword": "女配",
-          "count": 1
-        },
-        {
           "keyword": "年代",
           "count": 1
         },
         {
           "keyword": "七零",
           "count": 1
+        },
+        {
+          "keyword": "修罗场",
+          "count": 1
         }
       ],
       "mature_keywords": [
         {
           "keyword": "娱乐圈",
-          "count": 3
+          "count": 4
         },
         {
           "keyword": "万人迷",
@@ -991,10 +1003,6 @@
           "count": 2
         },
         {
-          "keyword": "直播",
-          "count": 2
-        },
-        {
           "keyword": "反派",
           "count": 2
         },
@@ -1005,13 +1013,17 @@
         {
           "keyword": "团宠",
           "count": 2
+        },
+        {
+          "keyword": "穿书",
+          "count": 1
         }
       ],
       "new_top_books": [
         "惊！娱乐圈糊咖老公是神秘大佬",
         "团播圈的小透明，神豪们的心尖宠",
         "神颜社畜直播爆火，她想挣生活费",
-        "心动9，直球导演和他的i人甜妹",
+        "当高考状元穿成娱乐圈黑红女星",
         "乖软萌宝拿捏豪门影帝爹"
       ],
       "reading_top_books": [
@@ -1050,15 +1062,15 @@
           "count": 1
         },
         {
+          "keyword": "追妻",
+          "count": 1
+        },
+        {
           "keyword": "空间",
           "count": 1
         },
         {
           "keyword": "种田",
-          "count": 1
-        },
-        {
-          "keyword": "追妻",
           "count": 1
         },
         {
@@ -1070,10 +1082,6 @@
         {
           "keyword": "年代",
           "count": 2
-        },
-        {
-          "keyword": "先婚后爱",
-          "count": 1
         },
         {
           "keyword": "强制爱",
@@ -1095,7 +1103,7 @@
       "mature_keywords": [
         {
           "keyword": "系统",
-          "count": 3
+          "count": 4
         },
         {
           "keyword": "空间",
@@ -1128,17 +1136,17 @@
       ],
       "new_top_books": [
         "穿越之我在民国当魔丸",
-        "九门：小鱼夫人的冒险手册",
-        "柏林之外",
         "盗笔：大力出奇迹强制爱理想型",
-        "乱世逃荒：带弟妹搬空敌库闯南美"
+        "柏林之外",
+        "哑女救下少帅后，他求我开口",
+        "乱世中的卧龙凤雏"
       ],
       "reading_top_books": [
         "夫人离婚后，军阀大佬一夜白头",
         "天降小福星，帅府全家宠上天",
         "薄幸",
-        "小农女逃荒搬空地主鬼子库房",
-        "穿书，反派一家的富豪亲戚回来了"
+        "穿书，反派一家的富豪亲戚回来了",
+        "小农女逃荒搬空地主鬼子库房"
       ],
       "interpretation": {
         "verified": "两榜都高频，属于已被市场验证且新书仍在跟进的方向。",
@@ -1169,15 +1177,15 @@
           "count": 2
         },
         {
-          "keyword": "种田",
-          "count": 2
-        },
-        {
           "keyword": "重生",
           "count": 2
         },
         {
           "keyword": "职业",
+          "count": 1
+        },
+        {
+          "keyword": "种田",
           "count": 1
         },
         {
@@ -1188,7 +1196,7 @@
       "emerging_keywords": [
         {
           "keyword": "系统",
-          "count": 3
+          "count": 4
         },
         {
           "keyword": "职业",
@@ -1203,26 +1211,22 @@
           "count": 2
         },
         {
-          "keyword": "末世",
-          "count": 2
-        },
-        {
           "keyword": "穿书",
           "count": 2
         },
         {
-          "keyword": "星际",
+          "keyword": "女配",
           "count": 1
         },
         {
-          "keyword": "女配",
+          "keyword": "末世",
           "count": 1
         }
       ],
       "mature_keywords": [
         {
           "keyword": "种田",
-          "count": 4
+          "count": 5
         },
         {
           "keyword": "无CP",
@@ -1237,15 +1241,15 @@
         "万人嫌反派炮灰成了早逝白月光",
         "全息游戏当神偷，偷完他的偷你的",
         "赛博求生：假圣母宽恕谁了？",
-        "求生：我种个地怎么成全民公敌了",
-        "公路求生：老头乐拉来一车盗墓的"
+        "公路求生：老头乐拉来一车盗墓的",
+        "游戏入侵：你个厨子怎么变城主了"
       ],
       "reading_top_books": [
         "游戏入侵：抢男女主机缘会上瘾诶",
         "公路求生榜一说她要走到公路尽头",
         "全球木筏求生：我开局幽灵船打劫",
         "求生游戏：请叫我诚信商人",
-        "诸神游戏：你们管大圣叫吗喽？"
+        "全民求生：别人吓哭，我在炖怪"
       ],
       "interpretation": {
         "verified": "两榜都高频，属于已被市场验证且新书仍在跟进的方向。",
@@ -1260,11 +1264,11 @@
       "same_title_or_url_count": 0,
       "verified_keywords": [
         {
-          "keyword": "女配",
-          "count": 3
+          "keyword": "系统",
+          "count": 4
         },
         {
-          "keyword": "系统",
+          "keyword": "女配",
           "count": 3
         },
         {
@@ -1276,15 +1280,15 @@
           "count": 2
         },
         {
-          "keyword": "团宠",
-          "count": 1
-        },
-        {
           "keyword": "万人迷",
-          "count": 1
+          "count": 2
         },
         {
-          "keyword": "空间",
+          "keyword": "反派",
+          "count": 2
+        },
+        {
+          "keyword": "团宠",
           "count": 1
         },
         {
@@ -1295,7 +1299,7 @@
       "emerging_keywords": [
         {
           "keyword": "万人迷",
-          "count": 6
+          "count": 5
         },
         {
           "keyword": "系统",
@@ -1303,6 +1307,10 @@
         },
         {
           "keyword": "空间",
+          "count": 4
+        },
+        {
+          "keyword": "团宠",
           "count": 2
         },
         {
@@ -1310,25 +1318,21 @@
           "count": 2
         },
         {
-          "keyword": "团宠",
-          "count": 1
+          "keyword": "甜宠",
+          "count": 2
         },
         {
           "keyword": "萌宝",
-          "count": 1
-        },
-        {
-          "keyword": "甜宠",
           "count": 1
         }
       ],
       "mature_keywords": [
         {
-          "keyword": "反派",
-          "count": 3
+          "keyword": "重生",
+          "count": 2
         },
         {
-          "keyword": "重生",
+          "keyword": "反派",
           "count": 2
         },
         {
@@ -1336,7 +1340,15 @@
           "count": 2
         },
         {
+          "keyword": "炮灰",
+          "count": 1
+        },
+        {
           "keyword": "末世",
+          "count": 1
+        },
+        {
+          "keyword": "星际",
           "count": 1
         }
       ],
@@ -1409,15 +1421,11 @@
           "count": 2
         },
         {
-          "keyword": "星际",
-          "count": 2
-        },
-        {
           "keyword": "穿书",
           "count": 2
         },
         {
-          "keyword": "直播",
+          "keyword": "娱乐圈",
           "count": 2
         },
         {
@@ -1425,11 +1433,15 @@
           "count": 1
         },
         {
+          "keyword": "星际",
+          "count": 1
+        },
+        {
           "keyword": "甜宠",
           "count": 1
         },
         {
-          "keyword": "幼崽",
+          "keyword": "直播",
           "count": 1
         }
       ],
@@ -1472,7 +1484,7 @@
         "落到死对头们手里后",
         "C级向导？全星际哨兵都不够她治",
         "惊！穿成清冷校草的粘人精前女友",
-        "星际兽世：制作恋爱游戏成顶流"
+        "顶级尤物，妹变美后财阀成恋爱脑"
       ],
       "reading_top_books": [
         "我在韩国贵族高中假装财阀二代",
@@ -1581,16 +1593,16 @@
       "new_top_books": [
         "逃荒路上，别人饿晕我家顿顿吃肉",
         "十二朵金花家有耀祖要科举",
-        "家徒四壁我养活两个兽世哥哥",
         "空间堆满仓：姐要躺平，不扶贫！",
+        "家徒四壁我养活两个兽世哥哥",
         "天上有龙【西幻】"
       ],
       "reading_top_books": [
         "夫君战死五年归来：我携婆家出族",
-        "团宠农家小糖宝",
         "发配边关，罪妻开荒养出战神",
+        "团宠农家小糖宝",
         "开局分家？我有空间我怕啥！",
-        "穿成农女：带着八个弟弟发家致富"
+        "重生妹妹抢亲？我换亲嫁糙汉暴富"
       ],
       "interpretation": {
         "verified": "两榜都高频，属于已被市场验证且新书仍在跟进的方向。",
@@ -1606,19 +1618,19 @@
       "verified_keywords": [
         {
           "keyword": "末世",
-          "count": 7
+          "count": 9
         },
         {
           "keyword": "空间",
-          "count": 6
+          "count": 5
+        },
+        {
+          "keyword": "系统",
+          "count": 4
         },
         {
           "keyword": "重生",
           "count": 4
-        },
-        {
-          "keyword": "系统",
-          "count": 3
         },
         {
           "keyword": "职业",
@@ -1643,20 +1655,16 @@
           "count": 5
         },
         {
-          "keyword": "系统",
-          "count": 3
-        },
-        {
           "keyword": "团宠",
           "count": 3
         },
         {
           "keyword": "女配",
-          "count": 2
+          "count": 3
         },
         {
           "keyword": "甜宠",
-          "count": 2
+          "count": 3
         },
         {
           "keyword": "直播",
@@ -1667,6 +1675,10 @@
           "count": 1
         },
         {
+          "keyword": "反派",
+          "count": 1
+        },
+        {
           "keyword": "修罗场",
           "count": 1
         }
@@ -1674,7 +1686,7 @@
       "mature_keywords": [
         {
           "keyword": "末世",
-          "count": 7
+          "count": 4
         },
         {
           "keyword": "炮灰",
@@ -1682,6 +1694,10 @@
         },
         {
           "keyword": "万人迷",
+          "count": 2
+        },
+        {
+          "keyword": "无CP",
           "count": 2
         },
         {
@@ -1694,10 +1710,6 @@
         },
         {
           "keyword": "种田",
-          "count": 1
-        },
-        {
-          "keyword": "无CP",
           "count": 1
         },
         {
@@ -1715,9 +1727,9 @@
       "reading_top_books": [
         "末世经营：四位大佬蹲我小店打杂",
         "末世大佬难攀？可他夜夜喊我宝宝",
+        "最野救世小队，在线肘击世界",
         "末世重生：大佬从百万囤货开始",
-        "穿进末世，我靠装弱，苟成最强",
-        "最野救世小队，在线肘击世界"
+        "末世降临，我靠种田带室友杀疯了"
       ],
       "interpretation": {
         "verified": "两榜都高频，属于已被市场验证且新书仍在跟进的方向。",
@@ -1733,7 +1745,7 @@
       "verified_keywords": [
         {
           "keyword": "甜宠",
-          "count": 4
+          "count": 2
         },
         {
           "keyword": "重生",
@@ -1754,11 +1766,11 @@
           "count": 1
         },
         {
-          "keyword": "万人迷",
+          "keyword": "豪门",
           "count": 1
         },
         {
-          "keyword": "豪门",
+          "keyword": "万人迷",
           "count": 1
         }
       ],
@@ -1766,6 +1778,10 @@
         {
           "keyword": "先婚后爱",
           "count": 5
+        },
+        {
+          "keyword": "甜宠",
+          "count": 3
         },
         {
           "keyword": "太子爷",
@@ -1793,10 +1809,10 @@
         }
       ],
       "new_top_books": [
-        "一见钟情：顾影帝高攀了",
         "妹妹的男朋友",
         "年下男大不纯情：姐姐乖，叫哥哥",
         "生理性喜欢：从朋友前妻开始",
+        "祝，如意",
         "小公主与老干部"
       ],
       "reading_top_books": [
@@ -1804,7 +1820,7 @@
         "恶毒女友提分手，太子爷他疯批了",
         "新婚羔羊",
         "被闺蜜骗到缅北赚快钱",
-        "真千金她从军了"
+        "二婚的秘密"
       ],
       "interpretation": {
         "verified": "两榜都高频，属于已被市场验证且新书仍在跟进的方向。",
@@ -1820,11 +1836,11 @@
       "verified_keywords": [
         {
           "keyword": "豪门",
-          "count": 3
+          "count": 4
         },
         {
           "keyword": "先婚后爱",
-          "count": 3
+          "count": 4
         },
         {
           "keyword": "重生",
@@ -1832,6 +1848,10 @@
         },
         {
           "keyword": "穿书",
+          "count": 2
+        },
+        {
+          "keyword": "追妻",
           "count": 2
         },
         {
@@ -1844,10 +1864,6 @@
         },
         {
           "keyword": "总裁",
-          "count": 1
-        },
-        {
-          "keyword": "追妻",
           "count": 1
         }
       ],
@@ -1868,7 +1884,7 @@
       "mature_keywords": [
         {
           "keyword": "豪门",
-          "count": 7
+          "count": 6
         },
         {
           "keyword": "甜宠",
@@ -1879,15 +1895,15 @@
           "count": 5
         },
         {
-          "keyword": "先婚后爱",
-          "count": 3
-        },
-        {
           "keyword": "炮灰",
           "count": 2
         },
         {
           "keyword": "强制爱",
+          "count": 2
+        },
+        {
+          "keyword": "先婚后爱",
           "count": 2
         },
         {
@@ -1903,15 +1919,15 @@
         "致宝珠",
         "重生觉醒！这次她吻向财阀老公",
         "备用联系人",
-        "想搞柏拉图？别逗你哥笑了",
-        "人前禁欲，夜里沉溺"
+        "人前禁欲，夜里沉溺",
+        "想搞柏拉图？别逗你哥笑了"
       ],
       "reading_top_books": [
         "老板是顶级魅魔，我睡一次没事吧",
         "作精不吸血后，恋爱脑糙汉追着亲",
         "温夜潮湿",
         "舔你时你出轨，提离婚你后悔",
-        "京圈公主抢我男友，我结婚她疯了"
+        "惊！阴鸷太子爷的炮灰老婆重生了"
       ],
       "interpretation": {
         "verified": "两榜都高频，属于已被市场验证且新书仍在跟进的方向。",
@@ -1930,10 +1946,6 @@
           "count": 6
         },
         {
-          "keyword": "太子爷",
-          "count": 3
-        },
-        {
           "keyword": "豪门",
           "count": 3
         },
@@ -1943,6 +1955,10 @@
         },
         {
           "keyword": "强制爱",
+          "count": 2
+        },
+        {
+          "keyword": "太子爷",
           "count": 2
         },
         {
@@ -1980,34 +1996,34 @@
           "count": 2
         },
         {
-          "keyword": "甜宠",
+          "keyword": "太子爷",
           "count": 2
         },
         {
-          "keyword": "太子爷",
-          "count": 1
+          "keyword": "甜宠",
+          "count": 2
         }
       ],
       "mature_keywords": [
         {
           "keyword": "重生",
-          "count": 7
-        },
-        {
-          "keyword": "豪门",
-          "count": 4
+          "count": 8
         },
         {
           "keyword": "系统",
           "count": 3
         },
         {
+          "keyword": "豪门",
+          "count": 3
+        },
+        {
           "keyword": "追妻",
-          "count": 2
+          "count": 3
         },
         {
           "keyword": "校园",
-          "count": 1
+          "count": 2
         },
         {
           "keyword": "反派",
